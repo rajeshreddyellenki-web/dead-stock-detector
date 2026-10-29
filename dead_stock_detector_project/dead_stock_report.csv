@@ -1,0 +1,61 @@
+product_id,product_name,category,stock_qty,unit_cost,last_sale_date,units_recent,days_since_last_sale,avg_daily_sales,days_of_cover,stock_value,status,suggestion
+P001,Product 1,Electronics,276,222,2026-10-27,187.0,1.0,2.077777777777778,132.83422459893046,61272,SLOW,"Run discount or promotion, stop reordering"
+P002,Product 2,Toys,223,335,2026-10-28,157.0,0.0,1.7444444444444445,127.83439490445859,74705,SLOW,"Run discount or promotion, stop reordering"
+P003,Product 3,Toys,109,328,2025-08-21,0.0,433.0,0.0,,35752,DEAD,Clearance sale / bundle / return to supplier
+P004,Product 4,Clothing,290,238,2026-10-18,94.0,10.0,1.0444444444444445,277.6595744680851,69020,SLOW,"Run discount or promotion, stop reordering"
+P005,Product 5,Clothing,123,428,2026-10-24,284.0,4.0,3.1555555555555554,38.97887323943662,52644,ACTIVE,No action needed
+P006,Product 6,Home,97,284,2026-10-28,228.0,0.0,2.533333333333333,38.28947368421053,27548,ACTIVE,No action needed
+P007,Product 7,Electronics,271,44,2026-10-28,230.0,0.0,2.5555555555555554,106.04347826086958,11924,ACTIVE,No action needed
+P008,Product 8,Toys,111,383,2025-10-01,0.0,392.0,0.0,,42513,DEAD,Clearance sale / bundle / return to supplier
+P009,Product 9,Grocery,22,289,2026-10-28,209.0,0.0,2.3222222222222224,9.473684210526315,6358,ACTIVE,No action needed
+P010,Product 10,Electronics,140,319,2026-10-28,119.0,0.0,1.3222222222222222,105.88235294117648,44660,ACTIVE,No action needed
+P011,Product 11,Clothing,238,284,2026-08-22,1.0,67.0,0.011111111111111112,21420.0,67592,SLOW,"Run discount or promotion, stop reordering"
+P012,Product 12,Home,56,279,2026-10-27,184.0,1.0,2.0444444444444443,27.39130434782609,15624,ACTIVE,No action needed
+P013,Product 13,Toys,138,49,,0.0,,0.0,,6762,DEAD,Clearance sale / bundle / return to supplier
+P014,Product 14,Toys,38,281,2026-10-28,224.0,0.0,2.488888888888889,15.267857142857142,10678,ACTIVE,No action needed
+P015,Product 15,Toys,205,398,2026-10-24,120.0,4.0,1.3333333333333333,153.75,81590,SLOW,"Run discount or promotion, stop reordering"
+P016,Product 16,Toys,142,155,2026-10-28,268.0,0.0,2.977777777777778,47.6865671641791,22010,ACTIVE,No action needed
+P017,Product 17,Clothing,99,303,2026-07-27,0.0,93.0,0.0,,29997,SLOW,"Run discount or promotion, stop reordering"
+P018,Product 18,Electronics,68,20,2026-10-27,109.0,1.0,1.211111111111111,56.14678899082569,1360,ACTIVE,No action needed
+P019,Product 19,Home,169,177,2026-10-28,160.0,0.0,1.7777777777777777,95.0625,29913,ACTIVE,No action needed
+P020,Product 20,Clothing,200,221,,0.0,,0.0,,44200,DEAD,Clearance sale / bundle / return to supplier
+P021,Product 21,Clothing,282,491,2026-10-28,235.0,0.0,2.611111111111111,108.0,138462,ACTIVE,No action needed
+P022,Product 22,Grocery,131,111,2026-07-22,0.0,98.0,0.0,,14541,SLOW,"Run discount or promotion, stop reordering"
+P023,Product 23,Electronics,48,141,2026-10-28,167.0,0.0,1.8555555555555556,25.86826347305389,6768,ACTIVE,No action needed
+P024,Product 24,Home,249,207,2026-10-28,273.0,0.0,3.033333333333333,82.08791208791209,51543,ACTIVE,No action needed
+P025,Product 25,Toys,188,496,2026-08-28,7.0,61.0,0.07777777777777778,2417.142857142857,93248,SLOW,"Run discount or promotion, stop reordering"
+P026,Product 26,Toys,210,427,2026-10-27,288.0,1.0,3.2,65.625,89670,ACTIVE,No action needed
+P027,Product 27,Clothing,29,22,2026-10-28,285.0,0.0,3.1666666666666665,9.157894736842106,638,ACTIVE,No action needed
+P028,Product 28,Home,93,120,2026-10-27,124.0,1.0,1.3777777777777778,67.5,11160,ACTIVE,No action needed
+P029,Product 29,Clothing,230,411,2026-10-22,120.0,6.0,1.3333333333333333,172.5,94530,SLOW,"Run discount or promotion, stop reordering"
+P030,Product 30,Clothing,249,33,2026-10-25,108.0,3.0,1.2,207.5,8217,SLOW,"Run discount or promotion, stop reordering"
+P031,Product 31,Clothing,130,428,2026-08-08,3.0,81.0,0.03333333333333333,3900.0,55640,SLOW,"Run discount or promotion, stop reordering"
+P032,Product 32,Grocery,241,144,2026-04-07,0.0,204.0,0.0,,34704,DEAD,Clearance sale / bundle / return to supplier
+P033,Product 33,Electronics,252,459,2026-08-15,2.0,74.0,0.022222222222222223,11340.0,115668,SLOW,"Run discount or promotion, stop reordering"
+P034,Product 34,Clothing,116,150,2026-03-24,0.0,218.0,0.0,,17400,DEAD,Clearance sale / bundle / return to supplier
+P035,Product 35,Home,269,219,2026-10-28,136.0,0.0,1.511111111111111,178.01470588235296,58911,SLOW,"Run discount or promotion, stop reordering"
+P036,Product 36,Electronics,86,332,2026-10-12,4.0,16.0,0.044444444444444446,1935.0,28552,SLOW,"Run discount or promotion, stop reordering"
+P037,Product 37,Home,71,67,2026-10-27,130.0,1.0,1.4444444444444444,49.15384615384615,4757,ACTIVE,No action needed
+P038,Product 38,Home,204,280,2026-10-28,240.0,0.0,2.6666666666666665,76.5,57120,ACTIVE,No action needed
+P039,Product 39,Grocery,191,254,2026-10-27,215.0,1.0,2.388888888888889,79.95348837209302,48514,ACTIVE,No action needed
+P040,Product 40,Toys,41,393,2026-10-27,269.0,1.0,2.988888888888889,13.717472118959108,16113,ACTIVE,No action needed
+P041,Product 41,Electronics,249,498,2026-10-27,9.0,1.0,0.1,2490.0,124002,SLOW,"Run discount or promotion, stop reordering"
+P042,Product 42,Toys,59,333,2025-12-27,0.0,305.0,0.0,,19647,DEAD,Clearance sale / bundle / return to supplier
+P043,Product 43,Toys,241,207,2026-10-26,117.0,2.0,1.3,185.3846153846154,49887,SLOW,"Run discount or promotion, stop reordering"
+P044,Product 44,Grocery,2,206,2026-10-26,147.0,2.0,1.6333333333333333,1.2244897959183674,412,ACTIVE,No action needed
+P045,Product 45,Electronics,239,211,2026-10-24,140.0,4.0,1.5555555555555556,153.64285714285714,50429,SLOW,"Run discount or promotion, stop reordering"
+P046,Product 46,Home,236,407,2026-10-28,218.0,0.0,2.422222222222222,97.43119266055047,96052,ACTIVE,No action needed
+P047,Product 47,Clothing,234,164,2026-10-28,150.0,0.0,1.6666666666666667,140.4,38376,SLOW,"Run discount or promotion, stop reordering"
+P048,Product 48,Home,199,87,2025-10-18,0.0,375.0,0.0,,17313,DEAD,Clearance sale / bundle / return to supplier
+P049,Product 49,Toys,141,170,2026-10-22,120.0,6.0,1.3333333333333333,105.75,23970,ACTIVE,No action needed
+P050,Product 50,Toys,211,16,2026-03-10,0.0,232.0,0.0,,3376,DEAD,Clearance sale / bundle / return to supplier
+P051,Product 51,Toys,83,57,2026-01-25,0.0,276.0,0.0,,4731,DEAD,Clearance sale / bundle / return to supplier
+P052,Product 52,Electronics,234,49,2026-10-27,219.0,1.0,2.433333333333333,96.16438356164385,11466,ACTIVE,No action needed
+P053,Product 53,Grocery,166,386,2026-10-11,1.0,17.0,0.011111111111111112,14940.0,64076,SLOW,"Run discount or promotion, stop reordering"
+P054,Product 54,Clothing,137,362,2026-10-28,219.0,0.0,2.433333333333333,56.301369863013704,49594,ACTIVE,No action needed
+P055,Product 55,Clothing,151,349,2026-10-28,251.0,0.0,2.7888888888888888,54.14342629482072,52699,ACTIVE,No action needed
+P056,Product 56,Electronics,170,233,2026-08-19,3.0,70.0,0.03333333333333333,5100.0,39610,SLOW,"Run discount or promotion, stop reordering"
+P057,Product 57,Clothing,11,359,2026-10-04,8.0,24.0,0.08888888888888889,123.75,3949,SLOW,"Run discount or promotion, stop reordering"
+P058,Product 58,Electronics,41,84,2026-10-28,111.0,0.0,1.2333333333333334,33.24324324324324,3444,ACTIVE,No action needed
+P059,Product 59,Toys,73,450,2026-10-28,154.0,0.0,1.711111111111111,42.66233766233766,32850,ACTIVE,No action needed
+P060,Product 60,Toys,34,253,2026-10-20,7.0,8.0,0.07777777777777778,437.1428571428571,8602,SLOW,"Run discount or promotion, stop reordering"
